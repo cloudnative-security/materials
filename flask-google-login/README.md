@@ -1,4 +1,8 @@
 # google-client-app
+
+https://realpython.com/flask-google-login/
+
+
 Flask, Flask-Login, Login with Google, App setup as Google Client
 
 Installation with Pipenv:
